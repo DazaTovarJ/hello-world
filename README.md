@@ -1,7 +1,7 @@
 hello-world
 
 =============
-Hi humans everyhwre!
+Hi humans everywhere!
 
 Here Jaime David Daza Tovar
 
